@@ -1,6 +1,12 @@
 ## Hi there 👋
 My name is Kayla 👩🏻‍💻 and I am a rising junior @ Cornell studying Computer Science & Philosophy</span>
 
+## Current Projects
+EduNotes: A Note Organization Web Application <br>
+- EduNotes is a comprehensive web application designed to enhance your note-taking and organization experience. Users can type up notes, upload handwritten notes (which are then parsed into text), and efficiently organize their notes. Additionally, I will be developing a study feature that leverages machine learning to generate practice questions based on selected note material. <br>
+
+Big Red Bargains: An E-Commerce Website for Cornell Students (  not officially affiliated with Cornell University ) <br>
+- Big Red Bargains is a web application designed specifically for Cornell students to buy and sell their belongings. This platform aims to centralize the process of buying and selling goods within the student community, thereby minimizing waste and promoting sustainability. <br>
 ## Relevant Coursework
 - Intro to Analysis of Algorithms (CS 4820)
 - Intro to Machine Learning (CS 4780)
