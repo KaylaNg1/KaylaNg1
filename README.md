@@ -23,6 +23,7 @@ Big Red Bargains: An E-Commerce Website for Cornell Students (  not officially a
 - C#
 - JavaScript
 - OCaml
+- Go
 - HTML/CSS
 
 ## Technologies/Frameworks
