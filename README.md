@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Kayla 👩🏻‍💻 and I am a junior @ Cornell studying Computer Science & Philosophy</span>
+My name is Kayla 👩🏻‍💻 and I am a senior @ Cornell studying Computer Science</span>
 
 ## Current Projects
 EduNotes: A Note Organization Web Application <br>
